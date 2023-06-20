@@ -1,2 +1,5 @@
 # second
-second repository
+second repository 
+
+#my writing
+i will learn it 
